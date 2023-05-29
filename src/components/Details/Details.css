@@ -1,0 +1,9 @@
+.details {
+  text-align: center;
+  background-color: rgb(219, 28, 28);
+  color: rgb(223, 213, 187);
+}
+
+.details-container > img {
+  width: 500px;
+}
